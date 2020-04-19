@@ -1,14 +1,13 @@
 import React from 'react';
 
-function Ticket() {
-  const name="ThisGuy"
-  const name2="ThatDude"
+function Ticket(props) {
   return (
-    <ReactFragment>
+    <React.Fragment>
       <h3>3a</h3>
-      <h3>{name} and {name2}</h3>
-      <p><em>Firebase entries not saving!</em></p>
-    </ReactFragment>
+      <h3>{props.location} - {props.names}</h3>
+      <p><em>{props.issue}</em></p>
+      <hr/>
+    </React.Fragment>
   )
 }
 
