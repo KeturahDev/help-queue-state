@@ -1,68 +1,81 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+# Social Media Clone
+## By: Ketuah Howard, Hristo Dzhambov, Racheal || April 20th 2020
+#### This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-In the project directory, you can run:
+## Description 
 
-### `npm start`
+Fake dating website based around finding potential romance on terms of if others like your pets.
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Application based around practicing component trees.
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
 
-### `npm test`
+## Preview
+*component diagram*
+<img width="826" alt="Screen Shot 2020-04-20 at 9 40 47 AM" src="https://user-images.githubusercontent.com/32975967/79776794-1c2f2a80-82eb-11ea-96cf-7966c4fe398d.png">
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+<!-- **[Deployed Applicatoin](https://keturahdev.github.io/pet-lovers-only/)** -->
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Description
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+Practice of functional programming with a plant watering application
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Project Specifications
 
-### `npm run eject`
+|Behavior|Input|Output|
+|---|:---:|:---:|
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Setup/Installation Requirements
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+_In Terminal:_
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+* Navigate to where you want this application to be saved, i.e.:
+```cd desktop```
+* Clone the file from GitHub with HTTPS
+```git clone https://github.com/keturahdev/```
+* Open file in your preferred text editor
+* On Mac: ```open -a {your text editor} galactic-age-calculator```
+* On Windows: ```galactic-age-calculator```
 
-## Learn More
+_Download Manually:_
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+* Navigate to https://github.com/kwicz/galactic-age-calculator.
+* Click green "Clone or Download" button.
+* Click "Download ZIP".
+* Click downloaded file to unzip.
+* Open folder called "galactic-age-calculator".
+* Right click "index.html" and select your preferred browser or text editor.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Future Additions
 
-### Code Splitting
+* Add planet images.
+* Add planet informational details.
+* Add functionality for Saturn and Uranus.
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+## Known Bugs
 
-### Analyzing the Bundle Size
+_No known bugs at this time._
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+## Support and contact details
 
-### Making a Progressive Web App
+_Have a bug or an issue with this application? [Open a new issue](https://github.com/kwicz/galactic-age-calculator/issues) here on GitHub._
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+## Technologies Used
 
-### Advanced Configuration
+* Node.js
+* Webpack
+* Javascript
+* jQuery
+* Jest
+* HTML & CSS
+* Bootstrap 4
+* [Bootsnipp](https://bootsnipp.com/snippets/351Vo)
+* [Start Bootstrap](https://startbootstrap.com/snippets/pricing-table/)
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
+### License
 
-### Deployment
+[MIT](https://choosealicense.com/licenses/mit/)
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+Copyright (c) 2020 **_Keturah Howard, Hristo Dzhambov, Racheal_**
